@@ -1,1 +1,2 @@
 this is fourth file
+I want to see what difference in working and stage area file
